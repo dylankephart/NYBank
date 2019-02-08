@@ -42,7 +42,7 @@ namespace NYBank
             //int accountNumber = Convert.ToInt32(txtAccountNumber.Text);
             //double balance = Convert.ToDouble(txtBalance.Text);
             //int overdraft = Convert.ToInt32(txtOverdraft.Text);
-            //new account must be both public and static for me to use it like this 
+            //new account must be both public and static for me to use it like this //
             
 
             this.Close(); 
